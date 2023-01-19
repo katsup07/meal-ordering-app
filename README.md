@@ -1,5 +1,5 @@
 # meal-ordering-app
-An app for ordering food online. Made with react.js.
+An app for ordering food online. Made with react.js
 
 In the project directory, you can run:
 
